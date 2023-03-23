@@ -1,16 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Web;
-using System.ComponentModel.DataAnnotations;
+
 namespace BigSchool.Models
 {
     public class Category
     {
-
-        public byte ID { get; set; }
+        public byte Id { get; set; }
         [Required]
-        [StringLength(255)]
+        [StringLength(225)]
         public string Name { get; set; }
     }
 }

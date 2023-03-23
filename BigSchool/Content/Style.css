@@ -1,0 +1,19 @@
+﻿body {
+}
+
+.navbar-inverse {
+    background-color: rgb(106, 90, 205);
+    border-color: #00ff21;
+}
+
+    .navbar-inverse .navbar-nav > li > a {
+        color: #b6ff00;
+    }
+
+    .navbar-inverse .navbar-brand {
+        color: #b6ff00;
+    }
+
+    .navbar-inverse .navbar-nav > li > a:hover {
+        color: #00ff21;
+    }
