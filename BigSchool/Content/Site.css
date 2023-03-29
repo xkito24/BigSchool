@@ -25,8 +25,8 @@ textarea {
 
 .navbar-inverse .navbar-toggle:hover,
 .navbar-inverse .navbar-toggle:focus {
-    background-color: #b6ff00;
-    border-color: #b6ff00;
+    background-color: #f62a0e;
+    border-color: #ff6a00;
 }
 
 .course {
@@ -40,7 +40,7 @@ textarea {
 
         .course > li .date {
             text-align: center;
-            background-color: white;
+            background-color: #d41d50;
             color: white;
             width: 60px;
             border-radius: 8px;
